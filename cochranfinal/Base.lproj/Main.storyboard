@@ -32,6 +32,7 @@
                                 <rect key="frame" x="184" y="744" width="45" height="30"/>
                                 <state key="normal" title="LOGIN"/>
                                 <connections>
+                                    <action selector="LOGIN:" destination="BYZ-38-t0r" eventType="touchUpInside" id="bi7-ps-77i"/>
                                     <segue destination="asN-ds-u2g" kind="show" id="pMA-Ip-B6k"/>
                                 </connections>
                             </button>
@@ -957,10 +958,10 @@
     </scenes>
     <inferredMetricsTieBreakers>
         <segue reference="8ns-un-lLK"/>
-        <segue reference="WAc-P2-MP6"/>
-        <segue reference="1hb-Fy-zNc"/>
+        <segue reference="ku2-cM-3Sp"/>
+        <segue reference="pMA-Ip-B6k"/>
         <segue reference="9fM-TF-cfu"/>
-        <segue reference="eEi-LJ-ElM"/>
+        <segue reference="01U-9A-lY6"/>
     </inferredMetricsTieBreakers>
     <resources>
         <image name="4.png" width="322" height="240"/>
