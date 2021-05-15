@@ -20,6 +20,9 @@
 		2490AC4E2646D72E00847496 /* REGISTERViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2490AC4D2646D72E00847496 /* REGISTERViewController.swift */; };
 		2490AC512646ED8D00847496 /* Screen Shot 2021-05-08 at 11.01.27 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 2490AC502646ED8D00847496 /* Screen Shot 2021-05-08 at 11.01.27 AM.png */; };
 		2490AC552646F01400847496 /* Screen Shot 2021-05-08 at 11.11.31 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 2490AC542646F01400847496 /* Screen Shot 2021-05-08 at 11.11.31 AM.png */; };
+		2490AC582647034E00847496 /* Screen Shot 2021-05-08 at 12.30.11 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 2490AC572647034E00847496 /* Screen Shot 2021-05-08 at 12.30.11 PM.png */; };
+		2490AC5B264703BD00847496 /* Screen Shot 2021-05-08 at 12.36.44 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 2490AC5A264703BD00847496 /* Screen Shot 2021-05-08 at 12.36.44 PM.png */; };
+		2490AC5E264705D800847496 /* Screen Shot 2021-05-08 at 12.45.48 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 2490AC5D264705D800847496 /* Screen Shot 2021-05-08 at 12.45.48 PM.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +41,9 @@
 		2490AC4D2646D72E00847496 /* REGISTERViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = REGISTERViewController.swift; sourceTree = "<group>"; };
 		2490AC502646ED8D00847496 /* Screen Shot 2021-05-08 at 11.01.27 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2021-05-08 at 11.01.27 AM.png"; sourceTree = "<group>"; };
 		2490AC542646F01400847496 /* Screen Shot 2021-05-08 at 11.11.31 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2021-05-08 at 11.11.31 AM.png"; sourceTree = "<group>"; };
+		2490AC572647034E00847496 /* Screen Shot 2021-05-08 at 12.30.11 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2021-05-08 at 12.30.11 PM.png"; sourceTree = "<group>"; };
+		2490AC5A264703BD00847496 /* Screen Shot 2021-05-08 at 12.36.44 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2021-05-08 at 12.36.44 PM.png"; sourceTree = "<group>"; };
+		2490AC5D264705D800847496 /* Screen Shot 2021-05-08 at 12.45.48 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2021-05-08 at 12.45.48 PM.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +95,9 @@
 				2443ECE12634AB90003D7033 /* 1.png */,
 				2490AC542646F01400847496 /* Screen Shot 2021-05-08 at 11.11.31 AM.png */,
 				2490AC502646ED8D00847496 /* Screen Shot 2021-05-08 at 11.01.27 AM.png */,
+				2490AC5A264703BD00847496 /* Screen Shot 2021-05-08 at 12.36.44 PM.png */,
+				2490AC572647034E00847496 /* Screen Shot 2021-05-08 at 12.30.11 PM.png */,
+				2490AC5D264705D800847496 /* Screen Shot 2021-05-08 at 12.45.48 PM.png */,
 				2443ECE02634AB90003D7033 /* 2.png */,
 				2443ECE32634AB90003D7033 /* 3.png */,
 				2443ECE22634AB90003D7033 /* 4.png */,
@@ -153,12 +162,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2490AC5B264703BD00847496 /* Screen Shot 2021-05-08 at 12.36.44 PM.png in Resources */,
 				2443ECE62634AB90003D7033 /* 4.png in Resources */,
 				2490AC552646F01400847496 /* Screen Shot 2021-05-08 at 11.11.31 AM.png in Resources */,
 				2490AC512646ED8D00847496 /* Screen Shot 2021-05-08 at 11.01.27 AM.png in Resources */,
+				2490AC5E264705D800847496 /* Screen Shot 2021-05-08 at 12.45.48 PM.png in Resources */,
 				2443ECD72634A822003D7033 /* LaunchScreen.storyboard in Resources */,
 				2443ECE52634AB90003D7033 /* 1.png in Resources */,
 				2443ECE42634AB90003D7033 /* 2.png in Resources */,
+				2490AC582647034E00847496 /* Screen Shot 2021-05-08 at 12.30.11 PM.png in Resources */,
 				2443ECD42634A822003D7033 /* Assets.xcassets in Resources */,
 				2443ECD22634A821003D7033 /* Main.storyboard in Resources */,
 				2443ECE72634AB90003D7033 /* 3.png in Resources */,
